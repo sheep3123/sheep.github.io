@@ -4,24 +4,4 @@ a {
 .body{
     display: flex;
     }
-.header{
-    flex-direction: column;
-    }
-.main{
-     display: flex;
-     }
-.main{
-     flex: auto;
-     }
-.article{
-        display: flex;
-        }
-.article{
-        flex: 3;
-        }
-.aside{
-      display: flex;
-      }
-.aside{
-      flex: 1;
-      }
+
