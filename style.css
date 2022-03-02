@@ -7,7 +7,6 @@ a {
     }
 .main{
     display: flex;
-    flex-direction: row-reverse;
     flex: auto;
     }
 .aside{
