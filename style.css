@@ -5,15 +5,3 @@ a {
     display: flex;
     flex-direction: column;
     }
-.main{
-     display: flex;
-     flex: auto;
-     }
-.article{
-        display: flex;
-        flex: 3;
-        }
-.aside{
-      display: flex;
-      flex: 1;
-      }
