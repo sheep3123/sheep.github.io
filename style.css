@@ -3,11 +3,10 @@ a {
 }
 .body{
     display: flex;
-    flex-direction: row
+    flex-direction: column
     }
 .main{
      display: flex;
-     flex-direction: column;
      flex: auto;
      }
 .article{
