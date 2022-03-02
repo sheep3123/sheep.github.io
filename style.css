@@ -4,4 +4,6 @@ a {
 .body{
     display: flex;
     }
-
+.body{
+    flex-direction: column;
+    }
