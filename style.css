@@ -3,5 +3,5 @@ a {
 }
 .body{
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
     }
