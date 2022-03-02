@@ -4,7 +4,7 @@ a {
 .body{
     display: flex;
     }
-.body{
+.header{
     flex-direction: column;
     }
 .main{
