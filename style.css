@@ -11,11 +11,8 @@ a {
     flex: auto;
     }
 .aside{
-    display: flex;
     flex: 1;
     }
 .article{
-    display: flex;
-    flex-direction: column;
     flex: 3;
     }
