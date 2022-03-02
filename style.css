@@ -3,6 +3,7 @@ a {
 }
 .body{
     display: flex;
+    flex-direction: row
     }
 .main{
      display: flex;
