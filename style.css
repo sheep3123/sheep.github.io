@@ -3,7 +3,7 @@ a {
 }
 .body{
     display: flex;
-    flex-direction: column
+    flex-direction: column;
     }
 .main{
      display: flex;
